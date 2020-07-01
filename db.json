@@ -1,0 +1,42 @@
+{
+  "logs": [
+    {
+      "message": "HardDisk crashed",
+      "attention": true,
+      "tech": "Himanshu Singh",
+      "date": "2020-07-01T18:38:25.889Z",
+      "id": 1
+    },
+    {
+      "message": "System is not shutting down",
+      "attention": true,
+      "tech": "Dheeraj Kumar",
+      "date": "2020-07-01T18:41:38.851Z",
+      "id": 2
+    },
+    {
+      "message": "antivirus is finished",
+      "attention": true,
+      "tech": "Manisha Meena",
+      "date": "2020-07-01T18:42:14.061Z",
+      "id": 3
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "Himanshu",
+      "lastName": "Singh"
+    },
+    {
+      "id": 2,
+      "firstName": "Dheeraj",
+      "lastName": "Kumar"
+    },
+    {
+      "id": 3,
+      "firstName": "Manisha",
+      "lastName": "Meena"
+    }
+  ]
+}
