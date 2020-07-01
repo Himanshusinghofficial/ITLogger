@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ITLogger/static/css/main.36497136.chunk.css",
+    "main.js": "/ITLogger/static/js/main.27a51918.chunk.js",
+    "main.js.map": "/ITLogger/static/js/main.27a51918.chunk.js.map",
+    "runtime~main.js": "/ITLogger/static/js/runtime~main.7225604a.js",
+    "runtime~main.js.map": "/ITLogger/static/js/runtime~main.7225604a.js.map",
+    "static/css/2.ae9e8b99.chunk.css": "/ITLogger/static/css/2.ae9e8b99.chunk.css",
+    "static/js/2.fadd1756.chunk.js": "/ITLogger/static/js/2.fadd1756.chunk.js",
+    "static/js/2.fadd1756.chunk.js.map": "/ITLogger/static/js/2.fadd1756.chunk.js.map",
+    "index.html": "/ITLogger/index.html",
+    "precache-manifest.4a1f115af59a12702cc1d15088f220b2.js": "/ITLogger/precache-manifest.4a1f115af59a12702cc1d15088f220b2.js",
+    "service-worker.js": "/ITLogger/service-worker.js",
+    "static/css/2.ae9e8b99.chunk.css.map": "/ITLogger/static/css/2.ae9e8b99.chunk.css.map",
+    "static/css/main.36497136.chunk.css.map": "/ITLogger/static/css/main.36497136.chunk.css.map"
+  }
+}
